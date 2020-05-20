@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Serilog;
@@ -8,7 +9,7 @@ namespace Chaney.Blog.HttpApi.Hosting
 {
     public class Program
     {
-        public static int Main(string[] args)
+        public static async Task<int> Main(string[] args)
         {
             Log.Logger = new LoggerConfiguration()
 #if DEBUG
@@ -25,7 +26,7 @@ namespace Chaney.Blog.HttpApi.Hosting
             try
             {
                 Log.Information("Starting web host.");
-                CreateHostBuilder(args).Build().Run();
+                await CreateHostBuilder(args).Build().RunAsync();
                 return 0;
             }
             catch (Exception ex)
