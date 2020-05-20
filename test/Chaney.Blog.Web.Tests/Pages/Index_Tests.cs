@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Chaney.Blog.Pages
 {
-    public class Index_Tests : BlogWebTestBase
+    public class Index_Tests : BlogHttpApiHostingTestBase
     {
         [Fact]
         public async Task Welcome_Page()
