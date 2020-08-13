@@ -13,7 +13,8 @@ namespace Chaney.Blog
 {
     [DependsOn(
         typeof(AbpAspNetCoreModule),
-        typeof(AbpAutofacModule)
+        typeof(AbpAutofacModule),
+        typeof(BlogHttpApiModule)
         )]
     public class BlogHttpApiHostingModule : AbpModule
     {

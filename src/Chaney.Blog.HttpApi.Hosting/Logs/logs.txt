@@ -1,0 +1,429 @@
+2020-05-20 14:39:45.474 +08:00 [INF] Starting web host.
+2020-05-20 14:39:54.385 +08:00 [INF] Loaded ABP modules:
+2020-05-20 14:39:54.388 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-05-20 14:39:54.389 +08:00 [INF] - Chaney.Blog.BlogHttpApiHostingModule
+2020-05-20 14:41:10.232 +08:00 [INF] Starting web host.
+2020-05-20 14:41:20.598 +08:00 [INF] User profile is available. Using 'C:\Users\xts\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-05-20 14:41:21.465 +08:00 [INF] Loaded ABP modules:
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-05-20 14:41:21.465 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-05-20 14:41:21.466 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Chaney.Blog.BlogApplicationModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Chaney.Blog.BlogHttpApiModule
+2020-05-20 14:41:21.467 +08:00 [INF] - Chaney.Blog.BlogHttpApiHostingModule
+2020-05-20 14:41:25.841 +08:00 [INF] Initialized all ABP modules.
+2020-05-20 14:41:25.930 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-05-20 14:41:25.930 +08:00 [INF] Hosting environment: Development
+2020-05-20 14:41:25.930 +08:00 [INF] Content root path: F:\Codes\Chaney.Blog\src\Chaney.Blog.HttpApi.Hosting
+2020-05-20 14:41:26.425 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44330/  
+2020-05-20 14:41:26.860 +08:00 [INF] Request finished in 458.5942ms 404 
+2020-05-20 14:41:29.190 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44330/  
+2020-05-20 14:41:29.199 +08:00 [INF] Request finished in 12.2462ms 404 
+2020-05-20 14:41:38.009 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44330/HelloWorld  
+2020-05-20 14:41:38.029 +08:00 [INF] Executing endpoint 'Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi)'
+2020-05-20 14:41:38.385 +08:00 [INF] Route matched with {action = "HelloWorld", controller = "HelloWorld", area = ""}. Executing controller action with signature System.String HelloWorld() on controller Chaney.Blog.HttpApi.Controllers.HelloWorldController (Chaney.Blog.HttpApi).
+2020-05-20 14:41:39.008 +08:00 [INF] Executing action method Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi) - Validation state: "Valid"
+2020-05-20 14:41:39.102 +08:00 [INF] Executed action method Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 75.9749ms.
+2020-05-20 14:41:39.169 +08:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2020-05-20 14:41:39.232 +08:00 [INF] Executed action Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi) in 815.4637ms
+2020-05-20 14:41:39.232 +08:00 [INF] Executed endpoint 'Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi)'
+2020-05-20 14:41:39.240 +08:00 [INF] Request finished in 1239.5496ms 200 text/plain; charset=utf-8
+2020-05-20 14:41:39.511 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44330/favicon.ico  
+2020-05-20 14:41:39.532 +08:00 [INF] Request finished in 22.8544ms 404 
+2020-08-13 14:15:04.020 +08:00 [INF] Starting web host.
+2020-08-13 14:15:06.968 +08:00 [INF] User profile is available. Using 'C:\Users\yb123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-08-13 14:15:07.087 +08:00 [INF] Loaded ABP modules:
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Chaney.Blog.BlogApplicationModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Chaney.Blog.BlogHttpApiModule
+2020-08-13 14:15:07.087 +08:00 [INF] - Chaney.Blog.BlogHttpApiHostingModule
+2020-08-13 14:15:08.069 +08:00 [INF] Initialized all ABP modules.
+2020-08-13 14:15:08.212 +08:00 [INF] Now listening on: https://localhost:44330
+2020-08-13 14:15:08.217 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-08-13 14:15:08.217 +08:00 [INF] Hosting environment: Development
+2020-08-13 14:15:08.217 +08:00 [INF] Content root path: H:\Codes\Chaney.Blog\src\Chaney.Blog.HttpApi.Hosting
+2020-08-13 14:15:09.544 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44330/  
+2020-08-13 14:15:09.588 +08:00 [INF] Request finished in 46.3589ms 404 
+2020-08-13 14:17:45.835 +08:00 [INF] Starting web host.
+2020-08-13 14:17:47.696 +08:00 [INF] User profile is available. Using 'C:\Users\yb123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-08-13 14:17:47.795 +08:00 [INF] Loaded ABP modules:
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-08-13 14:17:47.795 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Chaney.Blog.BlogApplicationModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Chaney.Blog.BlogHttpApiModule
+2020-08-13 14:17:47.796 +08:00 [INF] - Chaney.Blog.BlogHttpApiHostingModule
+2020-08-13 14:17:48.282 +08:00 [INF] Initialized all ABP modules.
+2020-08-13 14:17:48.405 +08:00 [INF] Now listening on: https://localhost:44330
+2020-08-13 14:17:48.410 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-08-13 14:17:48.410 +08:00 [INF] Hosting environment: Development
+2020-08-13 14:17:48.410 +08:00 [INF] Content root path: H:\Codes\Chaney.Blog\src\Chaney.Blog.HttpApi.Hosting
+2020-08-13 14:17:49.556 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44330/  
+2020-08-13 14:17:49.598 +08:00 [INF] Request finished in 45.038ms 404 
+2020-08-13 14:19:55.373 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44330/api/helloworld  
+2020-08-13 14:19:55.375 +08:00 [INF] Request finished in 2.2223ms 404 
+2020-08-13 14:25:01.814 +08:00 [INF] Starting web host.
+2020-08-13 14:25:04.415 +08:00 [INF] User profile is available. Using 'C:\Users\yb123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-08-13 14:25:04.551 +08:00 [INF] Loaded ABP modules:
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Chaney.Blog.BlogApplicationModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Chaney.Blog.BlogHttpApiModule
+2020-08-13 14:25:04.551 +08:00 [INF] - Chaney.Blog.BlogHttpApiHostingModule
+2020-08-13 14:25:05.269 +08:00 [INF] Initialized all ABP modules.
+2020-08-13 14:25:05.415 +08:00 [INF] Now listening on: https://localhost:44330
+2020-08-13 14:25:05.416 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-08-13 14:25:05.416 +08:00 [INF] Hosting environment: Development
+2020-08-13 14:25:05.416 +08:00 [INF] Content root path: H:\Codes\Chaney.Blog\src\Chaney.Blog.HttpApi.Hosting
+2020-08-13 14:25:06.323 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44330/  
+2020-08-13 14:25:06.378 +08:00 [INF] Request finished in 58.5478ms 404 
+2020-08-13 14:25:29.714 +08:00 [INF] Starting web host.
+2020-08-13 14:25:31.823 +08:00 [INF] User profile is available. Using 'C:\Users\yb123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-08-13 14:25:31.912 +08:00 [INF] Loaded ABP modules:
+2020-08-13 14:25:31.912 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-08-13 14:25:31.912 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-08-13 14:25:31.912 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-08-13 14:25:31.912 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-08-13 14:25:31.912 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-08-13 14:25:31.912 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-08-13 14:25:31.912 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Chaney.Blog.BlogApplicationModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Chaney.Blog.BlogHttpApiModule
+2020-08-13 14:25:31.913 +08:00 [INF] - Chaney.Blog.BlogHttpApiHostingModule
+2020-08-13 14:25:32.420 +08:00 [INF] Initialized all ABP modules.
+2020-08-13 14:25:32.431 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-08-13 14:25:32.431 +08:00 [INF] Hosting environment: Development
+2020-08-13 14:25:32.431 +08:00 [INF] Content root path: H:\Codes\Chaney.Blog\src\Chaney.Blog.HttpApi.Hosting
+2020-08-13 14:25:32.488 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44330/  
+2020-08-13 14:25:32.541 +08:00 [INF] Request finished in 55.1054ms 404 
+2020-08-13 14:25:41.502 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44330/HelloWorld  
+2020-08-13 14:25:41.505 +08:00 [INF] Executing endpoint 'Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi)'
+2020-08-13 14:25:41.597 +08:00 [INF] Route matched with {action = "HelloWorld", controller = "HelloWorld", area = ""}. Executing controller action with signature System.String HelloWorld() on controller Chaney.Blog.HttpApi.Controllers.HelloWorldController (Chaney.Blog.HttpApi).
+2020-08-13 14:25:41.720 +08:00 [INF] Executing action method Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi) - Validation state: "Valid"
+2020-08-13 14:25:41.737 +08:00 [INF] Executed action method Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 12.969ms.
+2020-08-13 14:25:41.749 +08:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2020-08-13 14:25:41.759 +08:00 [INF] Executed action Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi) in 157.7151ms
+2020-08-13 14:25:41.759 +08:00 [INF] Executed endpoint 'Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi)'
+2020-08-13 14:25:41.761 +08:00 [INF] Request finished in 259.2097ms 200 text/plain; charset=utf-8
+2020-08-13 14:25:41.866 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44330/favicon.ico  
+2020-08-13 14:25:41.867 +08:00 [INF] Request finished in 1.34ms 404 
+2020-08-13 14:26:26.443 +08:00 [INF] Starting web host.
+2020-08-13 14:26:28.291 +08:00 [INF] User profile is available. Using 'C:\Users\yb123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-08-13 14:26:28.390 +08:00 [INF] Loaded ABP modules:
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Chaney.Blog.BlogApplicationModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Chaney.Blog.BlogHttpApiModule
+2020-08-13 14:26:28.390 +08:00 [INF] - Chaney.Blog.BlogHttpApiHostingModule
+2020-08-13 14:26:28.877 +08:00 [INF] Initialized all ABP modules.
+2020-08-13 14:26:28.994 +08:00 [INF] Now listening on: https://localhost:44330
+2020-08-13 14:26:28.999 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-08-13 14:26:28.999 +08:00 [INF] Hosting environment: Development
+2020-08-13 14:26:28.999 +08:00 [INF] Content root path: H:\Codes\Chaney.Blog\src\Chaney.Blog.HttpApi.Hosting
+2020-08-13 14:26:29.869 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44330/  
+2020-08-13 14:26:29.914 +08:00 [INF] Request finished in 47.4149ms 404 
+2020-08-13 14:26:33.721 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44330/HelloWorld  
+2020-08-13 14:26:33.723 +08:00 [INF] Executing endpoint 'Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi)'
+2020-08-13 14:26:33.819 +08:00 [INF] Route matched with {action = "HelloWorld", controller = "HelloWorld", area = ""}. Executing controller action with signature System.String HelloWorld() on controller Chaney.Blog.HttpApi.Controllers.HelloWorldController (Chaney.Blog.HttpApi).
+2020-08-13 14:26:33.922 +08:00 [INF] Executing action method Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi) - Validation state: "Valid"
+2020-08-13 14:26:33.939 +08:00 [INF] Executed action method Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 13.2343ms.
+2020-08-13 14:26:33.951 +08:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2020-08-13 14:26:33.957 +08:00 [INF] Executed action Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi) in 134.3402ms
+2020-08-13 14:26:33.957 +08:00 [INF] Executed endpoint 'Chaney.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Chaney.Blog.HttpApi)'
+2020-08-13 14:26:33.958 +08:00 [INF] Request finished in 236.5036ms 200 text/plain; charset=utf-8

@@ -9,22 +9,22 @@ using Volo.Abp.TenantManagement;
 namespace Chaney.Blog
 {
     [DependsOn(
-        typeof(BlogDomainModule),
-        typeof(AbpAccountApplicationModule),
-        typeof(BlogApplicationContractsModule),
-        typeof(AbpIdentityApplicationModule),
-        typeof(AbpPermissionManagementApplicationModule),
-        typeof(AbpTenantManagementApplicationModule),
-        typeof(AbpFeatureManagementApplicationModule)
+        //typeof(BlogDomainModule),
+        //typeof(AbpAccountApplicationModule),
+        //typeof(BlogApplicationContractsModule),
+        typeof(AbpIdentityApplicationModule)//,
+        //typeof(AbpPermissionManagementApplicationModule),
+        //typeof(AbpTenantManagementApplicationModule),
+        //typeof(AbpFeatureManagementApplicationModule)
         )]
     public class BlogApplicationModule : AbpModule
     {
         public override void ConfigureServices(ServiceConfigurationContext context)
         {
-            Configure<AbpAutoMapperOptions>(options =>
-            {
-                options.AddMaps<BlogApplicationModule>();
-            });
+            //Configure<AbpAutoMapperOptions>(options =>
+            //{
+            //    options.AddMaps<BlogApplicationModule>();
+            //});
         }
     }
 }

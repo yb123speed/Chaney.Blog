@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Chaney.Blog.Application.Contracts\Chaney.Blog.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Chaney.Blog.Application\Chaney.Blog.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
