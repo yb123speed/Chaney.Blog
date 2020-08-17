@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <Import Project="..\..\common.props" />
 
@@ -7,20 +7,12 @@
     <RootNamespace>Chaney.Blog</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Chaney.Blog.Domain.Shared\Chaney.Blog.Domain.Shared.csproj" />
-  </ItemGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>..\Chaney.Blog.HttpApi.Hosting\Chaney.Blog.Domain.xml</DocumentationFile>
+  </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Volo.Abp.Identity.Domain" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.PermissionManagement.Domain.Identity" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.IdentityServer.Domain" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.PermissionManagement.Domain.IdentityServer" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.BackgroundJobs.Domain" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.AuditLogging.Domain" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.TenantManagement.Domain" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.FeatureManagement.Domain" Version="2.7.0" />
-    <PackageReference Include="Volo.Abp.SettingManagement.Domain" Version="2.7.0" />
+    <PackageReference Include="Volo.Abp.Identity.Domain" Version="3.0.5" />
   </ItemGroup>
 
 </Project>

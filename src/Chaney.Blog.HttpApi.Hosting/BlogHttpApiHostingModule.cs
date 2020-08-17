@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
@@ -6,15 +7,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using Volo.Abp;
 using Volo.Abp.AspNetCore;
+using Volo.Abp.AspNetCore.Mvc;
 using Volo.Abp.Autofac;
 using Volo.Abp.Modularity;
 
 namespace Chaney.Blog
 {
     [DependsOn(
-        typeof(AbpAspNetCoreModule),
+        typeof(AbpAspNetCoreMvcModule),
         typeof(AbpAutofacModule),
-        typeof(BlogHttpApiModule)
+        typeof(BlogHttpApiModule),
+        typeof(BlogSwaggerModule)
         )]
     public class BlogHttpApiHostingModule : AbpModule
     {
@@ -35,6 +38,7 @@ namespace Chaney.Blog
             }
             // 路由
             app.UseRouting();
+
             // 路由映射
             app.UseEndpoints(endpoints =>
             {

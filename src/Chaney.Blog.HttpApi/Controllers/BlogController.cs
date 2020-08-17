@@ -1,15 +1,14 @@
-﻿using Chaney.Blog.Localization;
+﻿using Microsoft.AspNetCore.Mvc;
 using Volo.Abp.AspNetCore.Mvc;
 
 namespace Chaney.Blog.Controllers
 {
-    /* Inherit your controllers from this class.
-     */
-    public abstract class BlogController : AbpController
+    [ApiController]
+    [Route("[controller]")]
+    public class BlogController : AbpController
     {
         protected BlogController()
         {
-            LocalizationResource = typeof(BlogResource);
         }
     }
 }
